@@ -92,7 +92,7 @@ It also promotes the veneration of technical contributions over soft skills. As 
 
 "The association between technology, masculinity, and the very notion of what constitutes skilled work is still fundamental to the way in which the gender division of labour is being reproduced today... As the proportion of women engineers grows, for example, the strong relationship between the culture of engineering and hegemonic masculinity will eventually be dismantled."
 
-Luckily, software and research contributions by women bitcoiners—which is easier to quantify—are also increasing over time. For example, Amiti Uttarwar and Neha Narula  both contributed to Bitcoin Core while Carla Kirk-Cohen, Valentine Wallace, and Lisa Neigut contributed to the Lightning Network scaling solution for bitcoin.
+Luckily, software and research contributions by women bitcoiners—which is easier to quantify—are also increasing over time. For example, Amiti Uttarwar and Neha Narula  both contributed to Bitcoin Core while Carla Kirk-Cohen, Valentine Wallace, Alyssa Hertig and Lisa Neigut contributed to the Lightning Network scaling solution for bitcoin.
 
 To be clear, every time a male bitcoiner’s female partner keeps their household running while he contributes to bitcoin projects, her labor is contributing to Bitcoin as well. Second-wave feminists have already raised this point. For example, Italian autonomist feminist Sylvia Federici fiercely debated the definitions of labor in her manifesto “Wages against Housework,” writing: “We want to call work what is work so that eventually we might rediscover what is love and create what will be our sexuality, which we have never known.”
 
